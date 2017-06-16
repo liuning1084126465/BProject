@@ -2,7 +2,7 @@
 //  DataManager.h
 //  MusicPlayer
 //
-//  Created by lanou3g on 15/11/4.
+//  Created by liuning on 15/11/4.
 //  Copyright © 2015年 liuning.com. All rights reserved.
 //
 
